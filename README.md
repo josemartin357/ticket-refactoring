@@ -12,6 +12,7 @@ In general, project had a lot of elements that had to be adjusted as described b
 
 - NO META DATA OR PAGE TITTLE: Added description and keywords meta data; as well as tittle for search engine optimization.
 - NO SEMANTIC ELEMENTS: Page had lots of divs and no semantic elements; fixed by adding header, section, article, aside and footer.
+- TOO MANY DIVS: Got rid of many divs and instead assigned classes to make code cleaner' also adjusted .css accordingly.
 - NON WORKING LINK FOR "search-engine-optimization" LI: fixed by adding id to article.
 - HEADERS WERE NOT FALLING IN SEQUENTIAL ORDER: fixed h4 in footer and adjusted css.
 
