@@ -1,5 +1,7 @@
 <TICKET REFACTORING>
 
+Link for deployed site: https://josemartin357.github.io/ticket-refactoring/
+  
 ## DESCRIPTION ##
 
 This project consisted of improving existing code in the webpage of Horiseon - a digital marketing company - looking to offer it's services in SEO, online reputation management and social media marketing.
