@@ -23,3 +23,5 @@ Worked on by Martin Bedoya on 8/3/2021.
 ## TO CONTRIBUTE ##
 
 Projects sits in the following github repository: https://github.com/josemartin357/ticket-refactoring.git
+
+  ![horiseon-screengrab1](https://user-images.githubusercontent.com/83382332/128583049-07f1edcd-649c-4d27-92af-684c377ed6b0.JPG)
